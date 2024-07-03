@@ -1,0 +1,3 @@
+Average time without SHAP: 0.31601462364196775 seconds
+Average time with SHAP (cache): 0.34374959468841554 seconds
+Average time with SHAP (no cache): 0.25915453433990476 seconds

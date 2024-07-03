@@ -1,0 +1,12 @@
+Tempo médio sem SHAP: 0.0271 segundos
+Tempo médio com SHAP (cache): 0.1156 segundos
+Tempo médio com SHAP (sem cache): 0.1233 segundos
+Uso médio de memória sem SHAP: 28163.46 bytes
+Uso médio de memória com SHAP (cache): 151378.35 bytes
+Uso médio de memória com SHAP (sem cache): 27989.00 bytes
+Ganho de tempo com SHAP (cache): -0.0885 segundos
+Economia de memória com SHAP (cache): -123214.89 bytes
+Porcentagem de economia de memória com SHAP (cache): -437.50%
+Ganho de tempo com SHAP (sem cache): -0.0962 segundos
+Economia de memória com SHAP (sem cache): 174.46 bytes
+Porcentagem de economia de memória com SHAP (sem cache): 0.62%
